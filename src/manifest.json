@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "My custom new tab",
     "manifest_version": 3,
-    "author": "Sanalzio",
+    "author": "Arpedox",
     "chrome_url_overrides": {
         "newtab": "index.html"
     }
