@@ -1,5 +1,5 @@
-# Sanalzio's custom new page or home page
+# Custom Home Page Fork
 
-![screenshoot](/images/chpc.png)
+![screenshoot](/screenshots.png)
 
-## ✨ visit [here](https://sanalzio.github.io/Custom-Home-Page/src/) for demo.
+## ✨ visit [here](https://arpedox.github.io/Custom-Home-Page/src/) for demo.
